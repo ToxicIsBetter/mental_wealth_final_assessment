@@ -1,0 +1,16 @@
+{
+    "name": "quarto-dev-container",
+    "build": {
+      "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+      "vscode": {
+        "extensions": [
+          "quarto.quarto",
+          "ms-python.python"
+        ]
+      }
+    },
+    "postCreateCommand": "quarto check"
+  }
+  

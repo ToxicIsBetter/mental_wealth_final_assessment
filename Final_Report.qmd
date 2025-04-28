@@ -157,6 +157,26 @@ In essence, the reflection logs transformed the work-based learning experience f
 
 ![](Picture14.png)
 
+# LinkedIn SSI Score Evidence
+
+## Explain how you actively improved your LinkedIn presence and networking skills.
+To actively improve my LinkedIn presence, I first optimized my profile by updating my headline, summary, and work experience to reflect my current skills and aspirations. I added a professional photo and personalized my LinkedIn URL. I then focused on building my network by connecting with classmates, colleagues, and industry professionals. Each week, I engaged with content by liking, commenting, and posting updates related to my field. I also joined LinkedIn Groups relevant to my career interests and participated in discussions to enhance my visibility.
+
+To improve my networking skills, I practiced reaching out with personalized connection requests and followed up with meaningful conversations. I set a goal to interact with at least five new people weekly and to share valuable content or insights regularly. Over time, these efforts helped me become more comfortable initiating and maintaining professional relationships online.
+
+SSI Score Before and After:
+
+![Screenshot showing my Week 3 SSI score](oldSSL.png)
+
+![Screenshot showing my Current SSI score](newSSL.png)
+
+## Impact of LinkedIn Networking on Career Development:
+
+LinkedIn networking has significantly boosted my career development. Through consistent engagement, I have built a stronger professional presence and received insights into my target industry. I have discovered job opportunities, attended virtual networking events, and connected with mentors who provided valuable career advice. These interactions not only expanded my professional network but also enhanced my confidence in building relationships. By actively managing my LinkedIn presence, I have positioned myself better for career opportunities and gained a deeper understanding of how networking influences professional growth.
+
+
+
+
 ```{=latex}
 \begin{center}
 ---THE END---

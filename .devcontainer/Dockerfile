@@ -2,7 +2,7 @@
 FROM mcr.microsoft.com/vscode/devcontainers/base:debian
 
 # Install dependencies
-RUN apt-get update && apt-get install -y \
+RUN apt-get update && apt-get install -y --no-install-recommends \
     curl \
     wget \
     pandoc \
@@ -15,21 +15,21 @@ RUN apt-get update && apt-get install -y \
     libfreetype6-dev \
     build-essential \
     libxml2-dev \
-    && apt-get clean
+    ca-certificates \
+    && apt-get clean \
+    && rm -rf /var/lib/apt/lists/*
 
 # Install Quarto
-RUN wget https://quarto.org/download/latest/quarto-linux-amd64.deb \
+RUN wget -q https://quarto.org/download/latest/quarto-linux-amd64.deb \
     && dpkg -i quarto-linux-amd64.deb \
-    && rm quarto-linux-amd64.deb
+    && rm -f quarto-linux-amd64.deb
 
-# Install TinyTeX via Quarto (correct method)
-RUN quarto install tinytex
+# Install TinyTeX via Quarto
+RUN quarto install tinytex \
+    && quarto check tinytex
+
+# Set environment variables for Quarto and TinyTeX
+ENV PATH="/opt/quarto/bin:/opt/tinytex/bin/x86_64-linux:$PATH"
 
 # Set default shell to bash
 SHELL ["/bin/bash", "-c"]
-
-# Clean up apt caches and unnecessary files
-RUN rm -rf /var/lib/apt/lists/*
-
-# Optional: Set environment variables for Quarto
-ENV PATH="/opt/quarto/bin:$PATH"

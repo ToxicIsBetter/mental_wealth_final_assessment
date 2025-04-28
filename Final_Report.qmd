@@ -7,7 +7,6 @@ title: |
    \Large CN5009: Mental Wealth; Professional Life 2 (Computing in Practice)
 format: 
   pdf:
-    mainfont: "Linux Libertine O"
     number-sections: true
     fontsize: 12pt
     geometry: margin=0.5in
@@ -128,7 +127,7 @@ The reflection logs also influenced my learning strategies and professional grow
 
 In essence, the reflection logs transformed the work-based learning experience from a series of tasks into a structured learning journey. By consistently recording experiences, feedback, and moments of insight, the logs facilitated self-assessment, skill development, and a clearer understanding of my capabilities and areas requiring further attention, aligning with the principles of using reflective writing for professional development.
 
-# Evidence of Work-Based Learning Reflection Logs
+# Evidence of Work-Based Learning (Reflection Logs)
 
 ![](Picture1.png)
 

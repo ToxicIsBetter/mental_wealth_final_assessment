@@ -55,77 +55,140 @@ I completed a 70-hour work-based learning placement as an IT Technician at the U
 
 Additionally, I worked extensively with the EON-XR application. This involved exploring its interface, learning to integrate 360-degree images as immersive backgrounds, adding interactive elements such as labels and portals, and testing the user experience within created workspaces. I also participated in taking 360 photos for potential use and creating Extended-Reality building tours of the RDCS building using provided images, focusing on areas like Room 1.31, Level 2, Level 1 and reception, and the area outside the reception including the Fulvio Arches.   
 
-As a student pursuing a degree in Data Science and AI, I am keenly focused on entering the technology industry. This placement was specifically chosen as it offered exposure to areas highly relevant to current industry standards, particularly the hands-on experience with software management, server interaction, and crucially, working with VR/XR technologies. To stay abreast of the evolving technological landscape, particularly the significant shift towards virtual and extended reality, I actively sought this opportunity to gain practical experience in VR/XR, which this role amply provided.
+As a student working for a degree in AI and data science, I am very interested in getting into the IT sector. This job was intentionally picked because it provided exposure to fields that are very pertinent to current industry standards, especially the practical expertise with server contact, software management, and—most importantly—working with VR/XR technology. To stay abreast of the evolving technological landscape, particularly the significant shift towards virtual and extended reality, I actively sought this opportunity to gain practical experience in VR/XR, which this role amply provided.
+
+\newpage
 
 # Reflection on 70hr Work-Based Learning (WBL) Placement
 
+Across the 70 hours dedicated to this work-based learning placement as an IT Technician at the University of East London, a clear and progressive pattern of development became evident. My journey moved systematically from engaging with initial, more straightforward IT support tasks to tackling complex problem-solving scenarios and contributing to project-based work involving emerging technologies. The early weeks were foundational, focusing on fundamental IT support responsibilities such as ensuring software was up-to-date across university computers and performing basic troubleshooting, crucial for familiarizing myself with the university's IT infrastructure and standard operational procedures.
+
+As the placement progressed, tasks evolved into more complex system administration activities involving Windows servers and clients, demanding significant troubleshooting and a deeper understanding of network configurations like workgroup management. This period marked a noticeable increase in technical complexity. The final stage represented a significant shift, centering on the utilization of the EON-XR platform for creating immersive experiences, demonstrating a move towards applying technical skills in a more creative, user-experience-focused, and project-oriented context, aligning with my interest in data science and AI. This progression highlights a valuable learning curve, moving from maintenance and troubleshooting to system configuration and content creation with advanced digital tools.
+
 ## Summary of Key Learnings and Development Patterns
 
-Across the 70 hours, a clear pattern of development is evident, moving from initial, more straightforward tasks to complex problem-solving and project-based work. Early on, the focus was on fundamental IT support, such as software updates and basic troubleshooting. This progressed to more complex system administration tasks involving Windows servers and clients, requiring significant troubleshooting and learning about network configurations. The final stage of the placement centered on utilizing the EON-XR platform for creating immersive experiences, demonstrating a shift towards applying technical skills in a more creative and project-oriented context.   
+The 70 hours of work-based learning can be distinctly segmented into stages, each building upon the last and revealing key learning points and development patterns:
 
-## Key learning points:
+- Stage 1 (Weeks 1-2 - Jan 27-Feb 3): Familiarization and Basic Maintenance: The initial period focused on gaining familiarity with the University's IT environment, procedures, and software. Tasks involved updating software via the Software Centre and manually for problematic PCs. This stage underscored the importance of thoroughness in basic maintenance and provided initial exposure to troubleshooting simple update issues, laying the groundwork for understanding common IT problems and the need for persistence.
 
-- Stage 1 (Weeks 1-2 - Jan 27-Feb 3): Gaining familiarity with the university's IT environment and standard procedures, learning about the software used, and understanding the importance of thoroughness in basic maintenance tasks. Initial exposure to troubleshooting basic software update issues.   
-- Stage 2 (Weeks 3-5 - Feb 3-Feb 6): Deep dive into server and client relationships, understanding workgroups, and the intricacies of operating system compatibility and installation. This stage highlighted the importance of correct specifications (e.g., Windows 10 Pro vs. Home) and persistent troubleshooting. Learning how to work in a team to solve technical problems and assigning roles for efficiency was also a key takeaway.   
-- Stage 3 (Weeks 6-10 - Feb 12-Mar 31): Focusing on the EON-XR platform, learning to navigate the interface, integrate media like 360 images, add interactive elements, and structure immersive experiences. This stage involved practical application of digital tools for content creation and understanding the user experience. The importance of preparation and having the right tools (like a tripod) for content capture was also learned.   
- -Stage 4 (Week 11 - Apr 7): Consolidating EON-XR skills by completing the project, focusing on flow and context within the immersive environment. Learning to use external tools like image compressors for optimizing content was also a practical skill gained.   
+- Stage 2 (Weeks 3-5 - Feb 3-Feb 6): System Administration and Network Fundamentals: This stage involved a deep dive into server and client relationships and workgroup understanding. A significant task was linking a Windows client PC to a server workgroup, highlighting the critical importance of correct system specifications (e.g., Windows 10 Pro vs. Home). Persistent troubleshooting was paramount. A key takeaway was the practical application of teamwork; collaborating and assigning roles significantly increased efficiency in tackling complex technical issues.
+
+- Stage 3 (Weeks 6-10 - Feb 12-Mar 31): Immersive Technology Exploration and Content Creation: The focus shifted to the EON-XR platform. This stage involved learning the interface, integrating media like 360 images, and adding interactive elements (labels, portals). It applied digital tools for content creation and developed an understanding of user experience in XR. The importance of preparation, like having a tripod for 360 photography, was a practical lesson learned.
+
+- Stage 4 (Week 11 - Apr 7): Project Completion and Optimization: The final stage consolidated Stage 3 skills by completing the EON-XR project, focusing on flow and context. A practical skill gained was using external tools like image compression software for optimizing content size, crucial for platform performance.
 
 ## Challenges Faced and How They Were Overcome
 
-Several technical challenges were encountered during the placement. Initially, some PCs had issues with software updates, which were overcome by revisiting them the next day and using manual update methods. A significant challenge was linking a Windows client PC to the server workgroup. This required extensive troubleshooting, including resetting and ultimately reinstalling the Windows client with the correct version (Windows 10 Pro instead of Home). This problem was overcome through persistence, consultation with teammates and the placement manager, and referring to external resources like YouTube tutorials. Another challenge was obtaining good quality 360 photos for the EON-XR project due to the lack of a tripod, which highlighted the importance of preparation and having the necessary equipment. Using pre-clicked photos provided by the placement manager allowed the project to move forward despite this. Finding options to add labels and interactive elements in EON-XR was also a challenge that was overcome by realizing the need for the desktop version of the application.   
+The placement presented several technical challenges that served as significant learning opportunities. Initially, some PCs had software update issues, overcome by revisiting them and using manual methods, teaching the value of follow-up and alternative solutions.
+
+A more significant challenge was linking a Windows client PC to the server workgroup. This required extensive troubleshooting, including resetting and ultimately reinstalling the Windows client with the correct version (Windows 10 Pro instead of Home). This problem was overcome through persistence, consulting with teammates and the placement manager, and leveraging external resources like YouTube tutorials. This experience deeply reinforced the importance of correct system specifications and collaborative problem-solving.
+
+Another challenge during the EON-XR project was obtaining good quality 360 photos without a tripod, highlighting the importance of adequate preparation. This was overcome by utilizing pre-clicked photos provided by the placement manager, underscoring adaptability. Finally, discovering how to add labels and interactive elements in EON-XR was challenging until realizing these features were only in the desktop version, teaching the importance of exploring all software features.
 
 ## Specific Technical and Soft Skills Gained
 
-- Technical Skills: Software updating and management (using Software Centre and manual methods), PC troubleshooting, Windows Server and Client administration (including workgroup configuration), Operating System installation (Windows 10 Home and Pro), Ubuntu Server user management, EON-XR platform usage (interface navigation, 360 image integration, adding interactive elements like annotations and portals, workspace creation), using image compression software, basic photography (with a 360 camera) and photo evaluation.   
-- Soft Skills: Teamwork and collaboration (consulting with teammates, assigning roles), Problem-solving (identifying issues, strategizing solutions, persistence in troubleshooting), Communication (consulting with placement manager and teammates), Patience (when facing technical difficulties and having to redo work), Attentiveness (learning from mistakes like incorrect OS installation), Evaluating physical spaces and their potential for virtual representation.  
+The placement provided a rich environment for gaining both technical and soft skills.
+
+Technical Skills:
+
+- Software Updating and Management: Practical experience using automated (Software Centre) and manual methods.
+
+- PC Troubleshooting: Diagnosing and resolving various PC issues.
+
+- Windows Server and Client Administration: Foundational knowledge in configuring clients for workgroups.
+
+- Operating System Installation: Hands-on experience installing Windows 10 Home and Pro.
+
+- Ubuntu Server User Management: Learned adding users via command line.
+
+- EON-XR Platform Usage: Proficiency in interface navigation, integrating 360 images, adding interactive elements, and creating workspaces.
+
+- Image Compression Software: Using open-source software to optimize image sizes.
+
+- Basic Photography and Photo Evaluation: Experience with a 360 camera and evaluating photo suitability for XR.
+
+Soft Skills:
+
+- Teamwork and Collaboration: Assigning roles, consulting with the team, and continuous integration.
+
+- Problem-solving: Identify issues, come up with solutions, and persevere through troubleshooting.
+
+- Communication: Effectively communicating with the placement manager and teammates.
+
+- Patience: Developed patience when facing technical difficulties and redoing work.
+
+- Attentiveness: Learned the importance of being attentive to details.
+
+- Evaluating Physical Spaces: Gained experience in considering physical environments for virtual representation.
 
 ## Improvement of Knowledge in Computing Fields
+The practical experience significantly enhanced my theoretical knowledge in several computing fields:
 
-The placement provided practical experience that enhanced knowledge in several computing areas:
+Computer Science/Computing for Business: Hands-on OS installation, configuration, and troubleshooting provided a deeper understanding of fundamental computing principles. Working with server/client relationships illustrated how infrastructure functions in business. EON-XR work touched upon digital content creation and UI design relevant to computing for business.
 
-- Computer Science/Computing for Business: Gaining hands-on experience with operating system installation, configuration, and troubleshooting provided a deeper understanding of fundamental computing principles. Working with server and client relationships directly relates to how computing infrastructure functions in a business environment. The EON-XR work, involving creating interactive digital experiences, touches upon principles of digital content creation and user interface design relevant to computing for business.   
-- Networking: The challenge of linking client PCs to a server workgroup provided practical insight into basic networking concepts and configurations.   
-- AR/Extended Reality: Extensive work with the EON-XR platform directly contributed to understanding and practical skills in creating extended reality experiences, a field closely related to AI and future computing interfaces.   
+- Networking: The challenge of linking client PCs to a server workgroup offered practical insight into basic networking concepts and configurations, complementing theoretical knowledge of network protocols. (Microsoft (2022) Ubuntu Server (2015))
+
+- AR/Extended Reality: Extensive work with EON-XR directly contributed to understanding and practical skills in creating XR experiences. This field is closely related to AI (computer vision, spatial computing) and aligns with my interest in future tech shifts. (Hysenaj, D. (2023))
 
 ## Comparison of Expectations vs. Actual Experiences
 
-The actual experience moved beyond basic IT support to include more involved system administration and immersive technology project work. The initial expectations were a focus on software updates and IT support, but the challenges with server/client configuration and the significant time spent on the EON-XR project, including content creation, provided a richer and more varied experience than initially anticipated. Learning to install Windows on already installed hardware and solving problems in different OS were some unforeseen learning opportunities that arose.   
+My initial expectations were basic IT support. The actual experience was significantly richer and more varied, including deeper system administration with server/client configuration and substantial time on the EON-XR project, which went beyond my initial expectations. Unexpected learning opportunities, like installing Windows on existing hardware and troubleshooting across OS, added valuable dimensions. The placement moved beyond routine maintenance to complex problem-solving and creative application of technology.
 
 ## Key Skills for Future Career and Areas for Development
 
-- Key Skills Possessed: The placement has equipped me with practical technical skills in IT support, system administration basics, troubleshooting, and specific proficiency in the EON-XR platform for creating immersive experiences. Developed soft skills in teamwork, problem-solving, and communication are also crucial for a future career in tech.
-- Skills Still Needed: While the logs highlight skills gained, they do not explicitly detail skills still needing development. However, based on the challenges faced, further development in advanced networking configurations, more in-depth server administration, and potentially scripting or automation for IT tasks could be beneficial. Improving photography skills for VR/XR content capture was implicitly identified as an area for growth.   
-- Impact on Career Goals: This 70-hour WBL experience has significantly reinforced my career goals in the tech industry, particularly my interest in areas like AI and extended reality. The hands-on experience with EON-XR provided valuable exposure to a cutting-edge field that aligns with the "current shift in tech". The practical IT skills gained also provide a solid foundation for various roles within the technology sector.   
+Based on this placement, I can identify key skills I now possess and areas for development.
+
+- Key Skills: Strong background in PC troubleshooting, basic Windows Server/Client administration, IT support, and EON-XR expertise are among the key skills possessed. Additionally important are developed soft skills in communication, problem-solving, teamwork, patience, and attentiveness.
+
+- Skills Still Needed: Areas for further development include more in-depth knowledge of advanced networking configurations and extensive server administration. Improving skills in scripting or automation for IT tasks and enhancing content capture skills for VR/XR applications were implicitly identified.
+
+- Impact on Career Goals: This WBL experience significantly reinforced my career goals in tech, particularly strengthening my interest in AI and extended reality. Hands-on EON-XR experience provided invaluable exposure to a cutting-edge field aligned with current tech shifts. Foundational IT skills provide a versatile base for various roles, making me a more well-rounded candidate.
 
 ## Digital Tools, Platforms, and Technologies.
 
-During the placement, I utilized several digital tools and technologies:
+Throughout the placement, I utilized a range of digital tools, platforms, and technologies:
 
-- Software Centre: Used for updating software on university PCs. 
-- Windows: Worked extensively with Windows client operating systems (Windows 10 Home and Pro) and interacted with a Windows server.   
-- Ubuntu: Gained experience adding users to an Ubuntu server.   
- -EON-XR: A key platform used for exploring interfaces, integrating 360 images, adding interactive elements (annotations, portals), and creating immersive workspaces. Both the web and desktop versions were used.   
-- Image Size Reducer: An open-source software used to optimize image files for the EON-XR platform.   
-- 360 Camera: Used for capturing panoramic photos for potential integration into the EON-XR project.   
-- YouTube: Used as an external resource for tutorials and guidance on using the EON-XR platform and troubleshooting technical issues. 
+- Software Centre: Automated software updates.
+
+- Windows: Worked extensively with client OS (Windows 10 Home/Pro) and interacted with a server.
+
+- Ubuntu: Gained experience adding users to a server.
+
+- EON-XR: Key platform for exploring interfaces, integrating 360 images, adding interactive elements, and creating workspaces (web and desktop).
+
+- Image Size Reducer: Open-source software to optimize image files.
+
+- 360 Camera: Used for capturing panoramic photos. (Ricoh360.com (2017))
+
+- YouTube: Valuable external resource for tutorials and troubleshooting guidance.
 
 ## Ethical, Legal Considerations & Confidentiality Statement.
 
-During this work-based learning placement at the University Of East London, I was mindful of ethical considerations, legal requirements, and the importance of confidentiality and data protection. While the tasks primarily involved managing university IT resources and working with general data within the university's systems, I understood the need to handle any information encountered with professionalism and discretion. This included adhering to principles aligned with data protection laws such as GDPR, respecting confidentiality regarding university systems and projects, and upholding professional standards akin to those outlined in the BCS Code of Conduct. Although I did not work with sensitive personal or confidential client data requiring anonymization in this documentation, I maintained an awareness of these principles throughout the placement.
+I was always aware of legal constraints, ethical issues, and the significance of confidentiality and data protection throughout my work-based learning placement at the University of East London. While tasks involved managing university IT resources and general data, I maintained awareness of handling information with professionalism and discretion. This included adhering to principles aligned with GDPR, respecting confidentiality regarding university systems and projects, and upholding professional standards akin to the BCS Code of Conduct. Although I did not work with sensitive personal or confidential client data requiring anonymization in this documentation, my conduct reflected an understanding and respect for these critical ethical and legal principles. I understand the significance of confidentiality agreements and responsible information handling. (BCS (2022) Information Commissioner's Office (2023))
 
-
+\newpage
 
 # Importance of Work-Based Learning Reflection Logs
 
-Reflection logs are undeniably crucial in work-based learning (WBL) as they transform experiences into tangible learning opportunities, significantly contributing to professional development. Engaging in reflective writing, as encouraged by the Week 2 tutorial materials, allows for a structured process of reviewing activities, understanding outcomes, and identifying areas for growth. This systematic approach goes beyond simply documenting tasks; it involves critical analysis of experiences, feedback received, and the moments where significant learning occurred.   
+Reflection logs are fundamentally important in work-based learning (WBL), serving bridge transform raw experiences structured learning. Reflective writing, practice highlighted Week 2 tutorial materials, provides systematic method reviewing activities. This process goes beyond simple task documentation; it necessitates critical analysis experiences, feedback received. To lend structure depth critical analysis, I consciously referenced applied Gibbs' Reflective Model (1988), well-regarded cyclical framework.
 
-Recording daily or weekly experiences in the reflection logs provided a vital framework for tracking progress throughout the 70-hour placement. Each entry, detailing the activity, actions taken, and the result or reflection, served as a timestamp of my journey as an IT Technician. This chronological record allowed me to see the progression from initial tasks like software updates to more complex challenges such as configuring Windows clients to join a server workgroup and developing immersive experiences in EON-XR. Reviewing these entries helped solidify the skills gained and provided a clear picture of the breadth of tasks undertaken.   
+My consistent practice recording daily weekly experiences, coupled feedback learning moments reflection logs, directly mirrored.
 
-Furthermore, the act of reflecting on challenges faced, such as the difficulties encountered when trying to link a client PC to the server or obtaining suitable photos for the EON-XR project, was instrumental in identifying skill gaps. The logs capture not just the problems but also the actions taken to overcome them, like consulting with teammates and the placement manager, and seeking external resources like YouTube tutorials. This process of documenting challenges and solutions highlighted areas where my knowledge or initial approach was insufficient, prompting a more focused effort to acquire the necessary skills and information.   
+- Description: Each log entry commenced factual account – detailed description activity. This involved plainly stating what transpired: specific task undertaken, surrounding context, actions. Documenting initial straightforward tasks like software updates, through more involved challenges such configuring Windows clients. This chronological record invaluable tracking my progress across 70-hour placement, effectively timestamping my evolution.
 
-The reflection logs also influenced my learning strategies and professional growth by encouraging a proactive approach to problem-solving. Each reflection prompted consideration of what was learned and how it would be practiced or applied in the future. This iterative process of action, reflection, and planning for future application is a core tenet of reflective practice. By documenting instances where different approaches were needed or where seeking help was beneficial, the logs reinforced the importance of adaptability, persistence, and leveraging available resources – key attributes for professional growth in the tech industry. The detailed accounts of working with specific technologies like EON-XR allowed for a deeper understanding of their functionalities and potential applications, directly influencing my professional interests and skill development in extended reality.   
+- Feelings: While not every entry delved deeply emotions, logs often captured my reactions feelings towards particular situations. Recording frustrations uncertainties faced when attempting link client PC server, challenges sourcing suitable. Acknowledging these feelings, even briefly, helped processing emotional dimension both successes setbacks.
 
-In essence, the reflection logs transformed the work-based learning experience from a series of tasks into a structured learning journey. By consistently recording experiences, feedback, and moments of insight, the logs facilitated self-assessment, skill development, and a clearer understanding of my capabilities and areas requiring further attention, aligning with the principles of using reflective writing for professional development.
+- Evaluation: Following description consideration feelings, I moved evaluate experience. This meant making judgments about what aspects experience were positive negative. Was task completed effectively? What elements went smoothly, where did I encounter difficulties? Reviewing these entries crucial solidifying skills I had gained provided clear overview variety tasks. This step allowed me objectively assess outcome each task my approach.
+
+- Analysis: This stage marked deeper dive into critical thinking, exploring underlying reasons why events unfolded. Why did I face difficulties linking client PC? What specific factors contributed challenges EON-XR project photos? This analytical phase involved making sense situation, identifying contributing factors, connecting experience. Documenting steps taken overcome problems, such consulting teammates, seeking guidance from placement manager, researching external.
+
+- Conclusion: Based insights gained from analysis, I formulated conclusions about experience specific lessons. This involved summarizing key takeaways. What valuable skills knowledge did I gain from tackling that particular? logs effectively captured not just problems encountered but, importantly, lessons derived from overcoming. Detailed reflections technologies like EON-XR fostered deeper understanding their functionalities potential, directly.
+
+- Action Plan: final forward-looking stage involved planning for future actions. What approaches would I adopt differently next time? How would I actively apply learning from this experience future situations? Each reflection explicitly prompted consideration what was learned how it would practiced integrated. This cyclical process action, reflection, planning for future application fundamental principle reflective. By noting instances where adaptability required, different approaches beneficial, seeking help proved effective, logs.
+
+Applying Gibbs' Reflective Model didn't just structure my reflection; it transformed reflection logs from simple. It ensured that I didn't merely document events but actively processed them, identifying my strengths. This structured approach profoundly contributed to my growth as IT Technician cultivating proactive mindset. (Gibbs, G. (1988))
+
+\newpage
 
 # Evidence of Work-Based Learning (Reflection Logs)
 
@@ -157,14 +220,22 @@ In essence, the reflection logs transformed the work-based learning experience f
 
 ![](Picture14.png)
 
+\newpage
+
 # LinkedIn SSI Score Evidence
 
 ## Explain how you actively improved your LinkedIn presence and 
    networking skills.
 
-To improve my LinkedIn presence, I first optimized my profile by updating my headline, summary, and work experience to reflect my current skills and aspirations. I added a professional photo and personalized my LinkedIn URL. I then focused on building my network by connecting with classmates, colleagues, and industry professionals whom i have met while I went to meetups. I kept my engagement up by liking, commenting, and posting updates related to my field. I also joined LinkedIn Communities relevant to my career interests and participated in discussions to enhance my visibility.
+In order to better showcase my achievements, skills, and career goals, I began by refining the employment experience portions of my LinkedIn profile. I added a professional photo as well a cover poster and modified my URL to give my LinkedIn page a more simple and polished appearance.
 
-I reaced out to people i met at meetups and kept in touch with connections and followed up with meaningful conversations. I set a goal to interact with new people weekly and to share valuable content or insights regularly. Over time, these efforts helped me become more comfortable initiating and maintaining professional relationships online.
+To expand my network, I connected with students, colleagues, and people in the industry through conferences, webinars, meetings, and university events. I took care to include information about how we met or topics of shared interest in my customized connection requests. I kept the relationship going by sending brief but considerate texts after we connected.
+
+By liking, commenting on, and sharing items about my field—with an emphasis on technology trends, career guidance, and industry news—I enhanced my LinkedIn engagement. I also shared unique content, like software development-related articles, meetup reflections, and project updates. My profile became more visible as a result of these actions.
+
+I also joined LinkedIn Groups related to Software Development, Data Analytics, and Career Development, and regularly participated in discussions increasing my knowledge and understand the current industry trends and standards. I set weekly goals to engage with five posts, connect with three new professionals, and post one original insight or article.
+
+Networking on LinkedIn also helped me stay informed about certifications, workshops, and online events that could develop my skills.
 
 SSI Score Before and After:
 
@@ -172,28 +243,35 @@ SSI Score Before and After:
 
 ![Screenshot showing my Current SSI score](newSSL.png)
 
+**My Social Selling Index increased from 10 to 24 as a result of my efforts, demonstrating steady progress in developing a professional network, interacting with companies, posts, identifying the relevant professionals, and fostering relationships.**
+
 ## Impact of LinkedIn Networking on Career Development:
 
-LinkedIn networking has significantly boosted my career development. Through consistent engagement, I have built a stronger linkedin presence and received insights into my industry. I have discovered job opportunities, attended virtual networking events, and connected with mentors who provided valuable career advice. These interactions not only expanded my professional network but also enhanced my confidence in building relationships. By actively managing my LinkedIn presence, I have positioned myself better for career opportunities and gained a deeper understanding of how networking influences professional growth.
+My professional advancement has been greatly enhanced by LinkedIn networking. I was invited to virtual gatherings, found new employment openings, and made connections with mentors who gave me insightful career guidance. I also learnt about in-demand skills and acquired insights into market trends. By being present all the time, I was able to improve my communication abilities, boost my self-esteem in work environments, and create enduring connections. All things considered, being active on LinkedIn has positioned me for long-term success, improved my professional preparation, and opened opportunities.
+
+\newpage
 
 # Career Journey Development Supporting Documents
 
 ## Job Description
 
 ![](PA-jd1.png)
+
 ![](PA-jd2.png)
 ![Job Decscription](PA-jd3.png)
 
-# Tailored CV and Cover Letter
+## Tailored CV and Cover Letter
 
 ![Cover Letter](coverletter.png)
 
 ![](cv1.png)
-![](cv2.png)
 
-# Tailored Standard Application Form
+![CV](cv2.png)
+
+## Tailored Standard Application Form
 
 ![](SAF1.png)
+
 ![](SAF2.png)
 ![](SAF3.png)
 ![](SAF4.png)
@@ -201,9 +279,46 @@ LinkedIn networking has significantly boosted my career development. Through con
 ![](SAF6.png)
 ![Standard Application Form](SAF7.png)
 
-# Professional Development Plan
+## Professional Development Plan
+
+![](pdp1.png)
+![](pdp2.png)
+![](pdp3.png)
+![Week-1 Professional Development Plan](pdp4.png)
 
 
+![](npdp1.png)
+![Current Professional Development Plan](npdp2.png)
+
+\newpage
+
+# Concluion
+
+In addition to enhancing my studies in Data Science and AI, this 70-hour work placement as an IT technician has been a priceless hands-on learning opportunity that has greatly shaped my comprehension of actual IT operations and strengthened my career goals in the larger technology sector. I developed practical technical abilities by working on projects ranging from Windows server and Linux configuration to software upgrades and PC troubleshooting. The latter part of the placement, focused on exploring EON-XR and creating immersive experiences with 360-degree images, particularly highlighted the exciting intersection of data, visualization, and user experience, aligning well with my degree focus. This exposure to XR technology and its implementation broadened my perspective on potential applications of AI and data analysis in creating interactive virtual environments.   
+
+If given another work-based learning opportunity, I would prioritize more thorough preparation and research before tackling specific tasks, such as ensuring the correct equipment (like a tripod for 360 photography ) is available from the start and double-checking software requirements to avoid errors like installing the incorrect Windows version. Furthermore, I would proactively seek clarification and leverage external resources earlier when encountering challenges, as proved effective when troubleshooting the workgroup connection issue.   
+
+One of the key lessons learned from the trip is how to use specialized tools like EON-XR and troubleshoot various operating systems in order to get real IT skills. Soft skill development was as important; I learned the importance of teamwork in solving problems, the necessity of patience and focus, and the effectiveness of thorough troubleshooting. This job served as a reminder of the importance of adaptability and continuous learning in the quickly evolving IT industry.
+
+# References
+
+- Gibbs, G. (1988). Learning by Doing: A Guide to Teaching and Learning Methods. Further Education Unit, Oxford Polytechnic: Oxford.
+
+- BCS (2022). BCS Code of Conduct | BCS. [online] www.bcs.org. Available at: https://www.bcs.org/membership-and-registrations/become-a-member/bcs-code-of-conduct/.
+
+- Information Commissioner's Office (2023). The UK GDPR. [online] ico.org.uk. Available at: https://ico.org.uk/for-organisations/data-protection-and-the-eu/data-protection-and-the-eu-in-detail/the-uk-gdpr/.
+
+- business.linkedin.com. Measure your sales success with Social Selling Index. [online] Available at: https://business.linkedin.com/sales-solutions/social-selling/the-social-selling-index-ssi.
+
+- Hysenaj, D. (2023). Application Examples - EON Reality - AI Assisted XR-based knowledge transfer for education and industry. [online] EON Reality - AI Assisted XR-based knowledge transfer for education and industry. Available at: https://eonreality.com/application-examples/.
+
+- Microsoft (2022). Active directory domain services overview. [online] Microsoft. Available at: https://learn.microsoft.com/en-us/windows-server/identity/ad-ds/get-started/virtual-dc/active-directory-domain-services-overview.
+
+- Ubuntu Server. (2015). User management. [online] Available at: https://documentation.ubuntu.com/server/how-to/security/user-management/index.html.
+
+- Ricoh360.com. (2017). Tips and tricks for shooting and editing 360 degree images with style! l RICOH360 Blog. [online] Available at: https://blog.ricoh360.com/en/6756.
+
+- 
 
 ```{=latex}
 \begin{center}

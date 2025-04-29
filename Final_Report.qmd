@@ -5,6 +5,8 @@ title: |
    \Large BSc Hons Data Science and AI
 
    \Large CN5009: Mental Wealth; Professional Life 2 (Computing in Practice)
+font-family: times
+linestretch: 1.5
 format: 
   pdf:
     number-sections: true
@@ -33,7 +35,7 @@ University of East London
 
 \end{huge}
 
-\vspace{6cm}
+\vspace{5cm}
 
 Submission Date: 29 April 2025
 
@@ -85,6 +87,8 @@ A more significant challenge was linking a Windows client PC to the server workg
 
 Another challenge during the EON-XR project was obtaining good quality 360 photos without a tripod, highlighting the importance of adequate preparation. This was overcome by utilizing pre-clicked photos provided by the placement manager, underscoring adaptability. Finally, discovering how to add labels and interactive elements in EON-XR was challenging until realizing these features were only in the desktop version, teaching the importance of exploring all software features.
 
+\newpage
+
 ## Specific Technical and Soft Skills Gained
 
 The placement provided a rich environment for gaining both technical and soft skills.
@@ -120,6 +124,8 @@ Soft Skills:
 - Attentiveness: Learned the importance of being attentive to details.
 
 - Evaluating Physical Spaces: Gained experience in considering physical environments for virtual representation.
+
+\newpage
 
 ## Improvement of Knowledge in Computing Fields
 
@@ -221,6 +227,8 @@ Applying Gibbs' Reflective Model didn't just structure my reflection; it transfo
 
 ![](Picture14.png)
 
+![](Picture15.jpg)
+
 \newpage
 
 # LinkedIn SSI Score Evidence
@@ -236,6 +244,8 @@ By liking, commenting on, and sharing items about my field with an emphasis on t
 I also joined LinkedIn Groups related to Software Development, Data Analytics, and Career Development, and regularly participated in discussions increasing my knowledge and understand the current industry trends and standards. I set weekly goals to engage with five posts, connect with three new professionals, and post one original insight or article.
 
 Networking on LinkedIn also helped me stay informed about certifications, workshops, and online events that could develop my skills.
+
+\newpage
 
 SSI Score Before and After:
 
@@ -304,6 +314,14 @@ In addition to enhancing my studies in Data Science and AI, this 70-hour work pl
 If given another work-based learning opportunity, I would prioritize more thorough preparation and research before tackling specific tasks, such as ensuring the correct equipment (like a tripod for 360 photography ) is available from the start and double-checking software requirements to avoid errors like installing the incorrect Windows version. Furthermore, I would proactively seek clarification and leverage external resources earlier when encountering challenges, as proved effective when troubleshooting the workgroup connection issue.   
 
 One of the key lessons learned from the trip is how to use specialized tools like EON-XR and troubleshoot various operating systems in order to get real IT skills. Soft skill development was just as important; I learned the importance of teamwork in solving problems, the necessity of patience and focus, and the effectiveness of thorough troubleshooting. This job served as a reminder of the importance of adaptability and continuous learning in the quickly evolving IT industry.
+
+\vspace{7cm}
+
+\begin{center}
+t.b.c
+\end{center}
+
+\newpage
 
 # References
 

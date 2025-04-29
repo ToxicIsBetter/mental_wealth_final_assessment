@@ -61,7 +61,7 @@ As a student working for a degree in AI and data science, I am very interested i
 
 # Reflection on 70hr Work-Based Learning (WBL) Placement
 
-Across the 70 hours dedicated to this work-based learning placement as an IT Technician at the University of East London, a clear and progressive pattern of development became evident. My journey moved systematically from engaging with initial, more straightforward IT support tasks to tackling complex problem-solving scenarios and contributing to project-based work involving emerging technologies. The early weeks were foundational, focusing on fundamental IT support responsibilities such as ensuring software was up-to-date across university computers and performing basic troubleshooting, crucial for familiarizing myself with the university's IT infrastructure and standard operational procedures.
+Across the 70 hours dedicated to this work-based learning placement as an IT Technician at the University of East London, I saw a clear and progressive pattern of development. My journey moved systematically from engaging with initial, more straightforward IT support tasks to tackling complex problem-solving scenarios and contributing to project-based work involving emerging technologies. The early weeks were foundational, focusing on fundamental IT support responsibilities such as ensuring software was up-to-date across university computers and performing basic troubleshooting, crucial for familiarizing myself with the university's IT infrastructure and standard operational procedures.
 
 As the placement progressed, tasks evolved into more complex system administration activities involving Windows servers and clients, demanding significant troubleshooting and a deeper understanding of network configurations like workgroup management. This period marked a noticeable increase in technical complexity. The final stage represented a significant shift, centering on the utilization of the EON-XR platform for creating immersive experiences, demonstrating a move towards applying technical skills in a more creative, user-experience-focused, and project-oriented context, aligning with my interest in data science and AI. This progression highlights a valuable learning curve, moving from maintenance and troubleshooting to system configuration and content creation with advanced digital tools.
 
@@ -122,6 +122,7 @@ Soft Skills:
 - Evaluating Physical Spaces: Gained experience in considering physical environments for virtual representation.
 
 ## Improvement of Knowledge in Computing Fields
+
 The practical experience significantly enhanced my theoretical knowledge in several computing fields:
 
 Computer Science/Computing for Business: Hands-on OS installation, configuration, and troubleshooting provided a deeper understanding of fundamental computing principles. Working with server/client relationships illustrated how infrastructure functions in business. EON-XR work touched upon digital content creation and UI design relevant to computing for business.
@@ -164,7 +165,7 @@ Throughout the placement, I utilized a range of digital tools, platforms, and te
 
 ## Ethical, Legal Considerations & Confidentiality Statement.
 
-I was always aware of legal constraints, ethical issues, and the significance of confidentiality and data protection throughout my work-based learning placement at the University of East London. While tasks involved managing university IT resources and general data, I maintained awareness of handling information with professionalism and discretion. This included adhering to principles aligned with GDPR, respecting confidentiality regarding university systems and projects, and upholding professional standards akin to the BCS Code of Conduct. Although I did not work with sensitive personal or confidential client data requiring anonymization in this documentation, my conduct reflected an understanding and respect for these critical ethical and legal principles. I understand the significance of confidentiality agreements and responsible information handling. (BCS (2022) Information Commissioner's Office (2023))
+I was always aware of legal constraints, ethical issues, and the significance of confidentiality and data protection throughout my work-based learning placement at the University of East London. While tasks involved managing university IT resources and general data, I maintained awareness of handling information with professionalism and discretion. This included adhering to principles aligning with GDPR, respecting confidentiality regarding university systems and projects, and upholding professional standards akin to the BCS Code of Conduct. Although I did not work with sensitive personal or confidential client data requiring anonymization in this documentation, my conduct reflected an understanding and respect for these critical ethical and legal principles. I understand the significance of confidentiality agreements and responsible information handling. (BCS (2022) Information Commissioner's Office (2023))
 
 \newpage
 

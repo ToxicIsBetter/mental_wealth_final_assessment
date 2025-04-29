@@ -303,7 +303,7 @@ In addition to enhancing my studies in Data Science and AI, this 70-hour work pl
 
 If given another work-based learning opportunity, I would prioritize more thorough preparation and research before tackling specific tasks, such as ensuring the correct equipment (like a tripod for 360 photography ) is available from the start and double-checking software requirements to avoid errors like installing the incorrect Windows version. Furthermore, I would proactively seek clarification and leverage external resources earlier when encountering challenges, as proved effective when troubleshooting the workgroup connection issue.   
 
-One of the key lessons learned from the trip is how to use specialized tools like EON-XR and troubleshoot various operating systems in order to get real IT skills. Soft skill development was as important; I learned the importance of teamwork in solving problems, the necessity of patience and focus, and the effectiveness of thorough troubleshooting. This job served as a reminder of the importance of adaptability and continuous learning in the quickly evolving IT industry.
+One of the key lessons learned from the trip is how to use specialized tools like EON-XR and troubleshoot various operating systems in order to get real IT skills. Soft skill development was just as important; I learned the importance of teamwork in solving problems, the necessity of patience and focus, and the effectiveness of thorough troubleshooting. This job served as a reminder of the importance of adaptability and continuous learning in the quickly evolving IT industry.
 
 # References
 
